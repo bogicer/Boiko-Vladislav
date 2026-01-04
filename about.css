@@ -1,0 +1,49 @@
+html,body,header,main,footer{
+    background-image: linear-gradient(to left, rgb(223, 183, 102), rgb(62, 62, 237), rgb(67, 67, 67));
+}
+h1,h2{
+    text-align: center;
+}
+img{
+    width: 650px;
+    height: 450px;
+}
+h1{
+    color: rgb(116, 219, 14);
+    font-size: 75px;
+}
+h2{
+    color: rgb(149, 99, 59);
+    font-size: 35px;
+}
+.a{
+    color: rgb(209, 209, 65);
+    font-size: 38px;
+}
+h3{
+    color: white;
+}
+p{
+    font-size: 20px;
+    color: rgb(190, 190, 190);
+}
+ol{
+    background-image: linear-gradient(to right, rgb(223, 183, 102), rgb(62, 62, 237), rgb(67, 67, 67));
+    margin-left: 10px;
+    margin-right: 800px;
+    margin-bottom: 2px;
+    color: white;
+
+}
+.Video_C,.Video_D{
+    color: lawngreen;
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 15px;
+    margin: 80px;
+    text-align: center;
+    background-color: rgb(66, 66, 228);
+    margin-right: 500px;
+    font-size: 30px; 
+}
+
