@@ -1,0 +1,63 @@
+html,body,header,main,footer{
+    background-image: linear-gradient(to right, grey, rgb(255, 148, 166), red, yellow);
+}
+h1,h2{
+    text-align: center;
+}
+img{
+    width: 680px;
+    height: 450px;
+}
+h1{
+    color: rgb(116, 219, 14);
+    font-size: 75px;
+}
+h2{
+    color: rgb(222, 34, 171);
+    font-size: 35px;
+}
+.a{
+    color: rgb(234, 234, 24);
+    font-size: 38px;
+}
+p{
+    font-size: 20px;
+    color: rgb(60, 60, 60);
+}
+h3{
+    color: white;
+}
+ol{
+    background-image: linear-gradient(to left, grey, rgb(255, 148, 166), red, yellow); 
+    margin-left: 10px;
+    margin-right: 800px;
+    margin-bottom: 2px;
+    color: white;
+}
+.Video_B{
+    color: rgb(191, 63, 119);
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 15px;
+    margin: 80px;
+    text-align: center;
+    background-color: rgb(198, 132, 228);
+    margin-right: 500px;
+    font-size: 30px;
+}
+.Video_D{
+    color: rgb(38, 173, 207);
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 15px;
+    margin: 80px;
+    text-align: center;
+    background-color: rgb(69, 224, 108);
+    margin-right: 500px;
+    font-size: 30px; 
+}
+.Technoblade{
+    color: rgb(222, 34, 171);
+    font-size: 100px;
+}
+
