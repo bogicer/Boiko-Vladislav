@@ -1,0 +1,59 @@
+html,body,header,main,footer{
+    background-image: linear-gradient(to right, black, purple);
+}
+h1,h2{
+    text-align: center;
+}
+img{
+    width: 350px;
+    height: 450px;
+}
+h1{
+    color: rgb(116, 219, 14);
+    font-size: 75px;
+}
+h2{
+    color: rgb(132, 0, 255);
+    font-size: 35px;
+}
+.a{
+    color: rgb(209, 209, 65);
+    font-size: 38px;
+}
+p{
+    font-size: 20px;
+    color: rgb(209, 209, 209);
+}
+h3{
+    color: white;
+}
+ol{
+    background-image: linear-gradient(to left, black, purple); 
+    margin-left: 10px;
+    margin-right: 800px;
+    margin-bottom: 2px;
+    color: white;
+}
+.Video_B{
+    color: blueviolet;
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 15px;
+    margin: 80px;
+    text-align: center;
+    background-color: rgb(92, 186, 155);
+    margin-right: 500px;
+    font-size: 30px;
+}
+.Video_C,.Video_D{
+    color: lawngreen;
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 15px;
+    margin: 80px;
+    text-align: center;
+    background-color: rgb(66, 66, 228);
+    margin-right: 500px;
+    font-size: 30px; 
+}
+
